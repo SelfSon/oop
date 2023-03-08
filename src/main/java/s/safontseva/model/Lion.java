@@ -1,5 +1,5 @@
 package s.safontseva.model;
 
-public class Lion implements Carnivore {
+public class Lion implements Carnivore, Meat {
 
 }

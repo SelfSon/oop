@@ -1,4 +1,4 @@
 package s.safontseva.model;
 
-public class Grass implements Food, Plant {
+public class Grass implements Plant {
 }
