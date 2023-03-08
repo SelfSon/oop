@@ -31,7 +31,7 @@
 Если у Вас есть иное решение, или способ улучшить мое решение, я буду очень рада обсудить и внести правки
 
 ### Tests:
-- Total coverage: 93% of lines
-- Total business logic coverage: 100% of lines
+- Total coverage: 75% of lines
+- Total business logic coverage: 85% of lines
 
 Notes: business logic coverage is counted as coverage for the `model` package
