@@ -1,5 +1,5 @@
 package s.safontseva.model;
 
-public class Cow implements Herbivore, Food {
+public class Cow implements Herbivore, Meat {
 
 }

@@ -1,4 +1,4 @@
 package s.safontseva.model;
 
-public interface Plant {
+public interface Plant extends Food {
 }
